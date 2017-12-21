@@ -1,0 +1,10 @@
+<story path="stories/search_restaurants/compare_data_ui_api.story" title="">
+<scenario keyword="Scenario:" title="Compare data ui and api
+Story: compare data ui and api">
+<step outcome="successful">Given [UI] user Open Zomato home page</step>
+<step outcome="successful">When [UI] user type restaurant name &apos;sana sini&apos; on searchbar</step>
+<step outcome="successful">And [UI] user click search</step>
+<step outcome="successful">Then [UI] user should redirected to restaurant detail page</step>
+<step outcome="successful">And [API] comparing data from ui with api data</step>
+</scenario>
+</story>

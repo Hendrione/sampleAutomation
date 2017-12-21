@@ -1,0 +1,11 @@
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/pages/DetailRestaurantPage.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/pages/HomePage.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/model/RestaurantResponse.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/AcceptanceTestSuite.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/steps/serenity/EndUserStepRestaurantPage.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/model/Location.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/model/UserRating.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/steps/SearchRestaurantSteps.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/steps/serenity/EndUserStepHomePage.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/model/R.java
+/Users/hendrione/IdeaProjects/sampleautomation/src/test/java/com/one/ui/automation/api/RestaurantApi.java

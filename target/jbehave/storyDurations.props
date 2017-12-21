@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Dec 21 23:04:45 WIB 2017
+stories/search_restaurants/compare_data_ui_api.story=23000
+threads=1
+total=23000
+threadAverage=23000
